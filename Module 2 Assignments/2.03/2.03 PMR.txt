@@ -1,0 +1,5 @@
+1. The purpose of my program was to help customers purchase socks. Then it will automatically apply any discounts that they qualify for.
+2. This can be useful in the real world for companies like Amazon. It can also be used for advertising deals that companies are offering.
+3. I ran into an issue because I forgot to convert int and float into strings when I put them in print(). This led to me having a traceback error but I debugged it when I read the last line of the terminal.
+4. I would always make sure that I wouldn't have a variable type difference. This ways I wouldn't waste time with simple issues.
+5. This could be made for a tax office as a calculator to calculate tax costs. It will be able to factor in tax brackets and such.

@@ -1,0 +1,5 @@
+1. The purpose of this program was to help people decide on the best clothing for them to wear. This factors in age, budget, gender.
+2. This program would be useful for helping people search for products they want. It will be helpful in filtering out certain items.
+3. I ran into a problem with my if statements because I did them similarily to java at first. This needed me to redo the if statements later.
+4. I would find a more efficient way than manually typing out so many if and else if statements. I would also test my code more frequently so debugging is easier.
+5. This could be used in deciding peoples budget in everyday life. Figuring out how much money they can spend and where

@@ -1,0 +1,5 @@
+1. The purpose of this code is to help people sign up time slots. It identifies if it is open or not.
+2. This program can be used in the real world for helping people sign up for races. It can also be used for signing up for volunteer slots.
+3. I ran into a problem wioth importing the file. However I realized the issue was I hadn't closed the file yet.
+4. I will open and close the files immediately before continuing on so I don't make small mistakes.
+5. This program can be repurposed for signing up for movie theater slots. I can change it to include payment and also display all slots before asking.

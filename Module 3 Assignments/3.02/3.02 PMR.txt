@@ -1,0 +1,6 @@
+1. The purpose of the program was to simulate an escape game. It also included an automated pvp situation.
+2. My program could be useful in game design. It would be very helpful in simulating rpg games
+3. I hit an infinite loop and had to completely restart all work cause I couldn't access my old work. 
+   Now I am coding on vsCode and then just copy and pasting what I did onto the website.
+4.I would code in vsCode so I don't risk losing all progress that I made. I would also figure out how to put a counter into my program so I could let Bob have other win conditions
+5. It can be used to calculate statistics. It can also be used to design other game mechanics.

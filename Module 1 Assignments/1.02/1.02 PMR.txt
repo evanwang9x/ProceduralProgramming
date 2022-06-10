@@ -1,0 +1,5 @@
+1. The purpose of this program was to take in the name of the user. Then it would tell them information about Python.
+2. This can be useful in the real world for answering commonly asked questions about python. It can also be useful to teach people about python.
+3. I ran into a problem of not being able to show the code. I resolved it as I forgot to close the main statement.
+4. I would immediate call the main statement and also close it. This way I will always be able to see the output or error.
+5. This program can be changed to help customers with automated responses to their issues. It can also be used to let people sign in and sign out and tell them if there was an error in their username/password.

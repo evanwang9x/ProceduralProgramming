@@ -1,0 +1,5 @@
+1. The purpose of this program was to make a program to see if someone is registered.
+2. This program would be useful ijn the real world for an RSVP website. This can let users see who's going and if they had signed up.
+3. I ran into an issue with reading but I fixed it when I included a second for in statement.
+4. I would understand what type of information I am feeding through my if statements so I wouldn't waste time.
+5. This program could be changed to see if users have made an account in a website. It can also be used to give users a specific number incase they want to reset passwords.

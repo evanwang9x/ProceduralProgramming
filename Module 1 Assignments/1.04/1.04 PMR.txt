@@ -1,0 +1,6 @@
+1. The purpose of this program was to inform the user about the importance of voting. It takes in their age and also informs them when can they vote.
+2. This program can be useful as a political tool to get kids more interested in our political system. This way they can avoid the political chaos right now.
+3. A problem I ran into was finding a way to use a case insensitive method for my if statements. I looked on stack overflow and found a solution however.
+4. I wouldn't do anything much differently as I am proud of the final output.
+5. This can be used any form of multiple choice test if I change a few variables. 
+   Additionally, I can also use this program as a survey and add an additional program to find average resutls.
