@@ -1,0 +1,16 @@
+Which scenario option did you choose: I choose scenario option 1.
+Why did you choose this option: I choose this option because I want to include a username and password verification in this assignment.
+	
+
+Research Questions:
+1. What is the total number of students per year in colleges: 6,354
+	Source used: https://www.usnews.com/education/best-colleges/the-short-list-college/articles/colleges-with-the-most-undergraduates#:~:text=But%20most%20institutions%20enroll%20far,the%20average%20headcount%20was%206%2C354.
+2. What are typical college majors: Natural sciences, Mathematics, Foreign languages, English, Humanities, Social sciences, Visual and performing arts,
+	Source used: https://learn.org/articles/What_are_the_Typical_Core_Undergraduate_Courses_for_All_College_Majors.html
+3. What is the average salary of a professor: 96,519
+	Source used: https://www.salary.com/research/salary/benchmark/professor-education-salary/fl
+
+Reflection:
+1. None of my discoveries were that surprising and I had discovered new things.
+2. It was not difficult to research this information
+3. It is important to perform good research as a programmer so that ways you will understand what is needed for your code.

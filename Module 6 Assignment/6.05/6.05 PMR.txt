@@ -1,0 +1,11 @@
+PMR:
+1. The purpose of my program was to help colleges understand what classes they need to add more professors and which classes to downsize in.
+2. This could be useful in the real world for collecting data. This data can be then used for other purposes whether its predicting future events or changing staffing.
+3. I ran into an issue which was that I originally wanted to manually write a csv file but then I realized that the file path would be different on my computer compared to your computer.
+4. I would have found a more efficient way of using if, else if, and else at the very end of my program so that ways I wouldn't waste time copy and pasting them into a find and replace program.
+5. This program can be generalized into collecting data for any other field. This can be the rates of success for medicine or the movement of the stock market.
+
+Security:
+1. Authentication is considered in my program so that ways the result that I get will be as accurate as possible and I won't make any mistake in staffing.
+2. Digital Signatures are important to add additional verification to prevent hackers from logging into other people's accounts.
+3. Encryption will be necessary to hide the data that I have and make sure that they aren't stolen by hackers.
